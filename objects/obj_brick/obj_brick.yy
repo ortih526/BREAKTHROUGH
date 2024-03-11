@@ -25,7 +25,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Brick",
-    "path": "folders/Brick.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

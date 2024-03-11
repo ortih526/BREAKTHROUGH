@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Object3",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_brick",
+    "path": "sprites/spr_brick/spr_brick.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -25,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Brick",
-    "path": "folders/Brick.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }
