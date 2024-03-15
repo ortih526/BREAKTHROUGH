@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_brick",
+  "name": "Object5",
   "spriteId": {
-    "name": "spr_brick",
-    "path": "sprites/spr_brick/spr_brick.yy",
+    "name": "spr_bat",
+    "path": "sprites/spr_bat/spr_bat.yy",
   },
   "solid": false,
   "visible": true,
