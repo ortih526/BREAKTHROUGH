@@ -3,7 +3,6 @@
   "resourceVersion": "1.6",
   "name": "BREAKTHROUGH",
   "resources": [
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":3,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":3,},
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},"order":0,},
@@ -11,7 +10,6 @@
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
     {"id":{"name":"obj_brick","path":"objects/obj_brick/obj_brick.yy",},"order":1,},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},"order":1,},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":5,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
@@ -29,7 +27,7 @@
     {"name":"Xbox Series XS","path":"options/xboxseriesxs/options_xboxseriesxs.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
